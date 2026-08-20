@@ -1,4 +1,4 @@
-# DSL Lab 3 — Lexer & Scanner.
+# Laboratory Report — Lexer & Scanner
 
 ### Course: Formal Languages & Finite Automata
 ### Author: Mitrofan Alexia
