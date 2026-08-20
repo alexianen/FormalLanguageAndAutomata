@@ -1,4 +1,4 @@
-# Laboratory Report — Regular expressions.
+# DSL Lab 4 — Regular expressions.
 
 ### Course: Formal Languages & Finite Automata
 ### Author: Mitrofan Alexia
